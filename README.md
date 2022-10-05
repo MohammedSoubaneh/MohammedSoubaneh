@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a Fullstack CarShareApp 🚗
 - 🌱 I’m currently learning Test Driven Development ❌ 🟢 🔄
 - 🤔 I’m looking for help with understanding User/Developer Experience 😊
